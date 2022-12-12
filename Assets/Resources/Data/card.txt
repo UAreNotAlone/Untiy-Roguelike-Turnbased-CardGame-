@@ -1,0 +1,14 @@
+Id	Name	Script	Type	Des	BgIcon	Icon	Expend	Arg0	Effects	Range	
+唯一的标识（不能重复）	名称	卡牌添加的脚本	卡牌类型的Id	描述	卡牌的背景图资源路径	图标资源的路径	消耗的费用	属性值	特效	作用范围	
+1000	Glove	AttackCardItem	10001	Deal {0} damage to a single target	Icon/CardBg/Card_Glove	Icon/boxingGlove_00	2	12	Effects/GreenBloodExplosion	2	
+1001	ShieldⅠ	DefendCardItem	10002	Gain {0} Shield	Icon/CardBg/Card_Shield1	Icon/armor_01a	1	5	Effects/SpinZoneBlue	0	
+1002	Trade	DrawCardItem	10003	Fetch {0} more cards 	Icon/CardBg/Card_Trade	Icon/wood_01a	1	1	Effects/SmokeExplosionDark	0	
+1003	ShieldⅡ	DefendCardItem	10002	Gain {0} Shield	Icon/CardBg/Card_Shield2	Icon/armor_01a	1	8	Effects/SpinZoneBlue	0	
+1004	Glass	DefendCardItem	10002	Gain {0} defense, enemy takes equal damage when attaked	Icon/CardBg/Card_Glass	Icon/boxingGlove_00	2	6	Effects/SpinZoneBlue	0	
+1005	StrikeⅠ	AttackCardItem	10001	Deal {0} damage to a single target	Icon/CardBg/Card_Strike1	Icon/boxingGlove_00	1	6	Effects/SpinZoneBlue	1	
+1006	StrikeⅡ	AttackCardItem	10001	Deal {0} damage to a single target	Icon/CardBg/Card_Strike2	Icon/boxingGlove_00	1	10	Effects/SpinZoneBlue	1	
+1007	Move	MoveCardItem	10004	Move within {0} unit	Icon/CardBg/Card_Move	Icon/boxingGlove_00	0	1	Effects/SpinZoneBlue	0	
+1008	Whiskey	DrawCardItem	10003	Clear up head debuff, gain {0} random buff	Icon/CardBg/Card_Whiskey	Icon/boxingGlove_00	2	1	Effects/SpinZoneBlue	0	
+1009	Vodka	DrawCardItem	10003	Clear up body debuff, gain {0} random buff	Icon/CardBg/Card_Vodka	Icon/boxingGlove_00	2	1	Effects/SpinZoneBlue	0	
+1010	Riesling	DrawCardItem	10003	Clear up arms debuff, gain {0} random buff	Icon/CardBg/Card_Riesling	Icon/boxingGlove_00	2	1	Effects/SpinZoneBlue	0	
+1011	Beer	DrawCardItem	10003	Clear up legs debuff, gain {0} random buff	Icon/CardBg/Card_Beer	Icon/boxingGlove_00	2	1	Effects/SpinZoneBlue	0	

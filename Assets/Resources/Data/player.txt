@@ -1,0 +1,4 @@
+Id	Name	Hp	Attack	Defend	Model	
+Id	名字	血量	攻击力	防御盾	玩家的模型路径	
+10001	player		2	2	Model/Player	
+						
